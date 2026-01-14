@@ -13,7 +13,7 @@ url: https://xurongmou.github.io
 # url: https://panversenexus.com
 
 # 指定要使用的 Jekyll 主题，如果不使用主题，则为空
-theme: not-pure-poole
+# theme: not-pure-poole
 
 # 头像图片的路径
 avatar: /avatar.jpeg
