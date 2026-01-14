@@ -1,13 +1,12 @@
 # Setup
 # 指定网站的标题
 title: Not Pure Poole
-# 指定联系人邮箱地址
-# email: chungjim77@gmail.com
+
 # 网站的简要描述
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 
 # 站点的子目录，如果你的网站托管在子目录下，需要指定  
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 
 # 网站的基本 URL 地址
 url: https://xurongmou.github.io
@@ -51,14 +50,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: evanxmou
+  username: vszhub
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/evanxmou
-    - https://github.com/xurongmou
+    - https://twitter.com/vszhub
+    - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: en
 
@@ -77,5 +76,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  url: https://github.com/xurongmou/
+  email: chungjim77@gmail.com
