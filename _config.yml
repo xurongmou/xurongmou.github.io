@@ -10,8 +10,8 @@ description: A simple, beautiful, and powerful Jekyll theme for blogs
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # 网站的基本 URL 地址
-# url: https://xurongmou.github.io
-url: https://panversenexus.com
+url: https://xurongmou.github.io
+# url: https://panversenexus.com
 
 # 指定要使用的 Jekyll 主题，如果不使用主题，则为空
 theme: not-pure-poole
